@@ -3,7 +3,7 @@ def add(x,y):
 
 
 def sub(x,y):
-	pass
+	retun x-y
 
 
 def mult(x,y):
